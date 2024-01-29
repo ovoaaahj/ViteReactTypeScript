@@ -1,5 +1,6 @@
 import {SetterOrUpdater,selector,useRecoilState,useRecoilValue} from 'recoil'
 import { textState } from '../recoil/recoil';
+import React from 'react';
 
 const CharacterCounter = () =>  {
     return (
